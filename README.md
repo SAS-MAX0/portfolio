@@ -31,9 +31,3 @@ Welcome to my portfolio! This repository showcases my projects in **web developm
 - **Video Editing**: Adobe Premiere Pro, Eleven Labs  
 - **App Development & Networking Tools**
 
----
-
-Feel free to explore the projects and reach out for any questions or feedback!
-
-📧 **Contact**: [your.email@example.com]  
-🔗 **GitHub**: [github.com/yourusername]
