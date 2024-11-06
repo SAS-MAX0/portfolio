@@ -7,13 +7,11 @@ Welcome to my portfolio! This repository showcases my projects in **web developm
 1. **Website Development Project**  
    **Technologies**: HTML, CSS, JavaScript  
    A functional website showcasing web development skills.  
-   🔗 [Live Demo](https://sas-max0.github.io/Website-DEV-assignment-2/)
-
+   
 2. **Weather App**  
    **Technologies**: HTML, CSS, JavaScript, APIs  
    A weather forecasting app displaying real-time data.  
-   🔗 [Live Demo](https://sas-max0.github.io/weather/)
-
+   
 3. **Lander Automotive Product Videos**  
    **Technologies**: Adobe Premiere Pro, Eleven Labs  
    Product videos created for Lander Automotive showcasing video editing and voiceover skills.  
@@ -29,5 +27,5 @@ Welcome to my portfolio! This repository showcases my projects in **web developm
 ### **Technologies Used:**
 - **Web Development**: HTML, CSS, JavaScript  
 - **Video Editing**: Adobe Premiere Pro, Eleven Labs  
-- **App Development & Networking Tools**
+- **App Development & Networking Tools:** Visual Studio code, Visual studio
 
